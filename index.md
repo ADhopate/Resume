@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Anirudha Dhopate
-theme: jekyll-theme-minimal
 ---
 
 # Anirudha Dhopate

@@ -1,8 +1,8 @@
 title: "Anirudha Dhopate"
 description: "Director – Senior Engineering Manager | Global Engineering & GenAI Leader"
 
-theme: jekyll-theme-primer
-
+#theme: jekyll-theme-primer
+theme: pages-themes/time-machine@v0.2.0
 markdown: kramdown
 kramdown:
   input: GFM
