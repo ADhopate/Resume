@@ -40,7 +40,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ## Professional Experience
 
 ### Director – Senior Engineering Manager 
-**Citi**  Jan 2026 – Present
+**Citi,**  Jan 2026 – Present
 
 - Lead engineering teams building AI, NLP, RAG, data, and automation platforms, from architecture through production and adoption
 - Architected a bespoke GenAI solution using Gemini + RAG to extract trades and account information from multiple broker statements, significantly reducing manual processing effort.
@@ -54,7 +54,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ---
 
 ### Senior Vice President - Engineering Manager 
-**Citi** | Aug 2022 - Dec 2025
+**Citi,** Aug 2022 - Dec 2025
 
 - Led global engineering teams for ICRM Surveillance & Portals, delivering AI-enabled compliance platforms aligned with regulatory mandates.
 - Drive engineering best practices across system design, code quality, CI/CD, observability, and operational resilience
@@ -65,7 +65,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 
 ---
 ### Vice President – Engineering Lead 
-**Citi** | Jan 2018 – Jul 2022
+**Citi,** Jan 2018 – Jul 2022
 
 - Led Agile transformation across global engineering teams, improving delivery velocity, predictability, and stakeholder confidence.
 - Delivered GDPR-compliant and AI-assisted compliance solutions across 100+ countries.
@@ -76,7 +76,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ---
 
 ### Assistant Vice President - Delivery Lead 
-**Citi** | Jun 2013 – Dec 2017
+**Citi,** Jun 2013 – Dec 2017
 
 - Led end-to-end development for compliance platforms, ensuring regulatory alignment and production stability.
 - Managed SIT, UAT, and production releases with strong quality governance.
@@ -86,7 +86,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ---
 
 ### Team Lead 
-**Accenture** | May 2010 – Jun 2013
+**Accenture,** May 2010 – Jun 2013
 
 - Served as Client SPOC, acting as the technical interface between client-side functional experts and software development teams, ensuring seamless communication and project execution. 
 - Designed and implemented software solutions based on requirements, leading a team of 22 employees, and ensuring timely delivery and high-quality standards. 
@@ -95,7 +95,7 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ---
 
 ### Team Lead & Developer  
-**Tech Mahindra** | Jul 2006 – Jan 2010
+**Tech Mahindra,** Jul 2006 – Jan 2010
 
 - Interacted with end users to capture and document requirements, ensuring alignment with business objectives and enhancing user satisfaction rates. 
 - Designed end-to-end solutions, obtained stakeholder approval, developed database code and led a team of developers, resulting in increase in project delivery efficiency. 
