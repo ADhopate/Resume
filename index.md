@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anirudha Dhopate
+---
+
 # Anirudha Dhopate
 
 **Director – Senior Engineering Manager | Global Engineering & GenAI Leader**  
