@@ -99,10 +99,10 @@ Experienced leader of global engineering teams, partnering closely with senior s
 ## Certifications
 
 - I LEAD through Innovation (Experienced Leaders) (2025)
-- Certified SAFe® Agilist | Scaled Agile, Inc. (2024)
-- Agile Project and Delivery Management (ICP-APM) | ICAgile (2021)
-- Advanced Certified ScrumMaster® (A-CSM®)  | Scrum Alliance (2020)
-- Certified ScrumMaster® (CSM®) | Scrum Alliance (2020)
+- Certified SAFe® Agilist - Scaled Agile, Inc. (2024)
+- Agile Project and Delivery Management (ICP-APM) - ICAgile (2021)
+- Advanced Certified ScrumMaster® (A-CSM®)  - Scrum Alliance (2020)
+- Certified ScrumMaster® (CSM®) - Scrum Alliance (2020)
 - ICAgile Certified Professional – Agile Project Management (ICP-APM) (2020)
 
 
