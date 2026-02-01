@@ -5,9 +5,11 @@ title: Anirudha Dhopate
 
 # Anirudha Dhopate
 
-**Director – Senior Engineering Manager | Global Engineering & GenAI Leader**  
+**Director at Citi – Senior Engineering Manager**  
 📧 AnirudhaDhopate@gmail.com | 📞 +91 9960642431  
 🔗 https://www.linkedin.com/in/anirudhadhopate/
+
+**[⬇️ Download Resume (PDF)](Resume_AnirudhaDhopate.pdf)**
 
 ---
 
