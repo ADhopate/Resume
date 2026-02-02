@@ -7,7 +7,7 @@ title: Anirudha Dhopate
 
 ## Director at Citi – Senior Engineering Manager
 
-[📧 AnirudhaDhopate@gmail.com](mailto:AnirudhaDhopate@gmail.com)  📞 +91 9960642431     [🔗LinkedIn Profile](https://www.linkedin.com/in/anirudhadhopate/) 
+[📧 AnirudhaDhopate@gmail.com](mailto:AnirudhaDhopate@gmail.com)  📞 +91 9960642431     [🔗LinkedIn Profile](https://www.linkedin.com/in/anirudhadhopate/) [ 💻 GitHub](https://github.com/ADhopate)
 
 **[⬇️ Download Resume (PDF)](Resume_AnirudhaDhopate.pdf)**
 
